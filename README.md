@@ -75,3 +75,4 @@ Originally created by [Richard Cheney](http://github.com/richeney)
 ## License
 
 [MIT](LICENSE)
+Be sure to have your SSH key set up and tht your public key (located in .ssh) is added to your GitHub account
